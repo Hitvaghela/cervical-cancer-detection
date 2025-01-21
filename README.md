@@ -22,9 +22,7 @@ This project focuses on detecting and analyzing cervical cancer using machine le
    ```bash
    cd cervical-cancer-detection
 
-4. Install required dependencies:
-   ```bash
-   pip install -r req.txt
+
 
 ## References
 "A Novel Web Framework for Cervical Cancer Detection System: A Machine Learning Breakthrough"  
